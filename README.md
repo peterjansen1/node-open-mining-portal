@@ -4,6 +4,8 @@
 
 DEMO - http://www.elicoin-pool.ml:86
 
+NOMP pool install guide on ubuntu 16.04 for Elicoin and YescryprR16 algo - http://www.bubasik.com/nomp-pool-install-guide-on-ubuntu-16-04-for-elicoin-and-yescryprr16-algo/
+
 -------
 ### Node Open Mining Portal consists from 3 main modules:
 * Main module - https://github.com/bubasik/node-open-mining-portal
