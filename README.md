@@ -1,12 +1,14 @@
 ### We are trying to reborn NOMP. Need contributors!
 -------
-# Neoscrypt algo fixed
+# YescryptR16 algo fixed for Elicoin and Yenten Coin
+
+DEMO - http://www.elicoin-pool.ml:86
 
 -------
 ### Node Open Mining Portal consists from 3 main modules:
-* Main module - https://github.com/foxer666/node-open-mining-portal
-* Stratum Pool - https://github.com/foxer666/node-stratum-pool
-* Node Multihashing libraries https://github.com/foxer666/node-multi-hashing
+* Main module - https://github.com/bubasik/node-open-mining-portal
+* Stratum Pool - https://github.com/bubasik/node-stratum-pool
+* Node Multihashing libraries https://github.com/bubasik/node-multi-hashing
 
 Stratum Pool can be replaced with node-merged-pool (it's made in UNOMP)
 Adding new algos threw Node Multihashing libraries.
@@ -16,7 +18,7 @@ Current version: v1.0.11
 -------
 ### Install
 ```
-git clone https://github.com/foxer666/node-open-mining-portal.git pool
+git clone https://github.com/bubasik/node-open-mining-portal.git pool
 cd pool
 npm install
 node init.js
